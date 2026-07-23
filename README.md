@@ -12,7 +12,6 @@ Software engineer, architect, researcher, and educator with 25+ years of experie
 - Multi-Agent Systems
 - Software Architecture
 - Design Patterns
-
 ## Current Projects
 
 - RAG Systems for Software Engineers
