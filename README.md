@@ -25,5 +25,5 @@ I am particularly interested in applying software engineering and architectural 
 
 ## Connect
 
-- LinkedIn: [Dr Ahmad H. Estabrag] (https://www.linkedin.com/in/dr-ahmad-h-estabrag-93ab8a3b/))
+- LinkedIn: [Dr Ahmad H. Estabrag] (https://www.linkedin.com/in/dr-ahmad-h-estabrag-93ab8a3b/)
 - Website: Under Development
